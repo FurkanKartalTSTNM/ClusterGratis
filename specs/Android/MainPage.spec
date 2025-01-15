@@ -134,3 +134,9 @@ tags:Gratis_Android_EnSonGezdiklerimNonLoginSepeteGit
 * Yeni Sepete Ekle butonu ile Gratis4 login olunur.
 * Sepete git'e tıklanır.
 * Sepet kontrol edilerek temizlenir.
+
+
+OpenAppAndroid
+-------
+tags:OpenAppAndroid
+* Uygulama baslatilir
