@@ -144,5 +144,4 @@ tags:OpenApp
 TiklamaMethodu
 ---------
 tags:Tiklama
-* Uygulama baslatilir
 * Tiklamalar
