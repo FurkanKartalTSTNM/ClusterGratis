@@ -3407,5 +3407,21 @@
     "androidType": "",
     "iosValue": "//XCUIElementTypeImage[@name=\"removeCircle\"]",
     "iosType": "xpath"
+  },
+
+
+  {
+    "key": "gratisKategoriler",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"Kategoriler\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "gratisMakyaj",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Makyaj\")]",
+    "iosType": "xpath"
   }
 ]

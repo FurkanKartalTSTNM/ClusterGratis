@@ -12,6 +12,12 @@
 * Elementin yüklenmesini bekle "cargoText"
 //* "anasayfa" icin sayac tut
 
+# Tiklamalar
+* "gratisKategoriler" li element varsa tıkla
+* "1" saniye bekle
+* "gratisMakyaj" li element varsa tıkla
+* "1" saniye bekle
+
 # Login sayfasina gecilir
 * "digerSekmesi" elementi bulunana kadar en fazla "20" saniye kadar bekle
 * Elementine tıkla "digerSekmesi"

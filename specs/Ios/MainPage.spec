@@ -139,3 +139,10 @@ OpenApp
 ----------
 tags:OpenApp
 * Uygulama baslatilir
+
+
+TiklamaMethodu
+---------
+tags:Tiklama
+* Uygulama baslatilir
+* Tiklamalar
