@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 IOS Scenario Main Page Campaign Swipe And Click
 -----------------------------------------------
-tags:Gratis_IOS_AnasayfaKampanyalarSwipeVeTiklama
+tags:Gratis_IOS_AnasayfaKampanyalarSwipeVeTiklamaüüüööö--
 * Uygulama baslatilir
 * Kampanyalar swipe edilir
 * Kampanyaya tiklanir
