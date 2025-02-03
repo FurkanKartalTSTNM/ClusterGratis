@@ -140,3 +140,9 @@ OpenAppAndroid
 -------
 tags:OpenAppAndroid
 * Uygulama baslatilir
+
+
+Furkann
+-------
+tags:tiklamalar
+* Tiklamalar
