@@ -61,7 +61,7 @@ tags:Gratis_Android_NonLoginSepeteEkleme
 
 Visited Add Favorite
 --------------------
-tags:Gratis_Android_EnSonGezdiklerimFavori
+tags:Gratis_Android_EnSonGezdiklerimFavori ÜÜÜÜÜÜÜ    
 * Uygulama baslatilir.
 * Yeni login sayfasina gecilir.
 * Yeni Gratis3 ile login olunur.
