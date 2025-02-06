@@ -7,7 +7,7 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
      
 IOS Scenario Gratis Card Discount Product Add To Cart
 -----------------------------------------------------
-tags:Gratis_IOS_GratisKartliUrunSepeteEkleme
+tags:Gratis_IOS_GratisKartliUrunSepeteEklemeüüüüü---ööö
 * Uygulama baslatilir
 * Yeni login sayfasina gecilir
 * Yeni Gratis0 ile login olunur
